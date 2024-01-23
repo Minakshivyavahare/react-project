@@ -1,0 +1,16 @@
+/* .card{
+    transition: all 0.3s;
+}
+.card:hover{
+    transform: scale(1.15);
+} */
+.stack-button{
+    margin-top: 20px;
+    margin-left: 15px;
+    padding: 20px 10px;
+    font-style: initial;
+}
+.card2{
+    padding: 30px;
+    margin-left: 50px;
+}
